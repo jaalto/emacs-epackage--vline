@@ -1,0 +1,21 @@
+Package: vline
+Section: extensions
+License: GPL-2+
+Depends: emacs (>= 22)
+Status: stable
+Archive:
+Compat:
+Maintainer: Jari Aalto <jari.aalto@cante.net>
+Bugs:
+Upstream: Taiki SUGAWARA <buzz.taiki@gmail.com>
+Upstream-Bugs:
+Vcs-Type: http
+Vcs-Url:
+Homepage:
+Wiki: http://www.emacswiki.org/emacs/VlineMode
+Commentary:
+Description: monor mode to show vertical line to highligh column
+ To toggle displaying vertical line, use M-x vline-mode in current buffer.
+ To display vertical line in all buffers, use M-x vline-global-mode.
+ .
+ Note: YYYY-MM-DD the code hasn't been touched since 2010.
