@@ -14,7 +14,7 @@ Vcs-Url:
 Homepage:
 Wiki: http://www.emacswiki.org/emacs/VlineMode
 Commentary:
-Description: monor mode to show vertical line to highligh column
+Description: minor mode to show vertical line to highligh column
  To toggle displaying vertical line, use M-x vline-mode in current buffer.
  To display vertical line in all buffers, use M-x vline-global-mode.
  .
