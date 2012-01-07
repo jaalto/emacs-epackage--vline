@@ -30,4 +30,4 @@ See `vline-mode' for more information on Vline mode.
 \(fn &optional ARG)" t nil)
 
 ;;;***
-(provide 'vline-epkg-0loaddefs)
+(provide 'vline-epackage-0loaddefs)
